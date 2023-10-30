@@ -1,4 +1,4 @@
-package pl.javastart.task.BankService;
+package pl.javastart.task.bankService;
 
 public class SalesRepresentative {
 
