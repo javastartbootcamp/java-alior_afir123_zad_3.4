@@ -1,4 +1,4 @@
-package pl.javastart.task.bankService;
+package pl.javastart.task.bank;
 
 public class Offer {
 

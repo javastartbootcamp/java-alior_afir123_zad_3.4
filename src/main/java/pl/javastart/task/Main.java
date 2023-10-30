@@ -1,7 +1,7 @@
 package pl.javastart.task;
 
-import pl.javastart.task.bankService.Offer;
-import pl.javastart.task.bankService.SalesRepresentative;
+import pl.javastart.task.bank.Offer;
+import pl.javastart.task.bank.SalesRepresentative;
 
 public class Main {
     public static void main(String[] args) {
